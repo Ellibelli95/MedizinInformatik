@@ -1,0 +1,31 @@
+{
+  "titel": "Forschung in Medizininformatik und Kognitiver Neurowissenschaft",
+  "text": "Die Medizininformatik unterstützt die kognitive Neurowissenschaft durch computergestützte Analyse neuronaler Daten, maschinelles Lernen und digitale Diagnostik.",
+  "literatur": [
+    {
+      "titel": "Cognitive Neuroscience: The Biology of the Mind",
+      "beschreibung": "Ein Standardwerk, das die biologischen Grundlagen der Kognition und neuronale Mechanismen beschreibt.",
+      "link": "https://www.gazzaniga.com/cognitive-neuroscience"
+    },
+    {
+      "titel": "Principles of Neural Science",
+      "beschreibung": "Dieses Buch behandelt die Funktionsweise des Gehirns und die zugrunde liegenden neuronalen Prozesse.",
+      "link": "https://www.kandelneuroscience.org/"
+    },
+    {
+      "titel": "Guidelines for reporting fMRI studies",
+      "beschreibung": "Leitlinien für die Durchführung und Veröffentlichung von fMRI-Studien in der kognitiven Neurowissenschaft.",
+      "link": "https://www.sciencedirect.com/science/article/pii/S105381191100370X"
+    },
+    {
+      "titel": "Journal of Biomedical Informatics",
+      "beschreibung": "Ein Fachjournal, das aktuelle Forschung zu medizinischer Datenanalyse und Informatik veröffentlicht.",
+      "link": "https://www.journals.elsevier.com/journal-of-biomedical-informatics"
+    },
+    {
+      "titel": "Nature Neuroscience",
+      "beschreibung": "Renommiertes Journal mit Artikeln zu neuronalen Grundlagen kognitiver Prozesse.",
+      "link": "https://www.nature.com/neuro/"
+    }
+  ]
+}
